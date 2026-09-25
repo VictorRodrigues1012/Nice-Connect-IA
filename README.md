@@ -2,6 +2,9 @@
 
 > Nome atual do projeto; identidade comercial ainda sujeita a evolução.
 
+> Este repositório é um case técnico.
+O código-fonte, dados operacionais e regras internas permanecem privados.
+
 Plataforma web adaptável de atendimento, automação e apoio operacional com inteligência artificial. Desenvolvida em colaboração, reúne interfaces de atendimento e organização de atividades conectadas a serviços de backend e integrações externas.
 
 ## Sobre o projeto
