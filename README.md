@@ -174,3 +174,5 @@ O material público se limita ao contexto, à evolução, às tecnologias e ao e
 ## Estado do projeto
 
 O Nice Connect IA continua em evolução. A interface, os serviços e as integrações são aperfeiçoados conforme as necessidades identificadas durante o desenvolvimento, preservando o caráter colaborativo do trabalho.
+
+Link do site: https://niceautomationsia.com/
